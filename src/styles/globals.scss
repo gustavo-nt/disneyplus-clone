@@ -1,0 +1,27 @@
+:root {
+    --white-light: #f9f9f9;
+    --blue-dark: #040714;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    color: var(--white-light);
+    background-color: var(--blue-dark);
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+        Helvetica Neue, sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+@import './global/_typography';
+@import './global/_responsive';
+@import './global/_animations';
