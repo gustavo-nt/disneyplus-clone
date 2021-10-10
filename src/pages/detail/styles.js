@@ -3,6 +3,10 @@ import { colors } from '../../styles/partials/_variables';
 
 export const Container = styled.div`
     position: relative;
+`;
+
+export const Content = styled.div`
+    position: relative;
     padding: 0 calc(3.5vw + 5px);
     min-height: calc(100vh - 70px);
 `;
@@ -11,7 +15,6 @@ export const Background = styled.div`
     position: fixed;
     inset: 0 0 0 0;
     opacity: 0.8;
-    z-index: -1;
 
     img {
         width: 100%;
