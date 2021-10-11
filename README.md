@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/logo.png" alt="logo" height="75"/>
+  <img src="https://github.com/gustavo-nt/disneyplus-clone/blob/main/public/images/github/disneyplus.png" alt="logo" height="75"/>
 </h4>
 
 <h1 align="center">
@@ -23,26 +23,24 @@
 </p>
 
 <h3 align="center"> 
-🚧  Finalizado  🚧
+🚧  Em progresso  🚧
 </h3>
 
 ### 📎 Features 
 
-- [x] Filme Destaque
-- [x] Filmes Originais Netflix
-- [x] Filmes divididos em categorias: romance, ação, etc
-- [x] Setas de rolagem da lista
-- [x] Preview do título selecionado
-- [x] Recomendações de filmes/séries
+- [x] Menus interativos
+- [x] Filmes Originais Disney
+- [x] Seção dispositivos
+- []  Catálogo dos filmes
+- []  Detalhe do filme/série
+- []  Recomendações de filmes/séries
 
 ### 💻 Projeto
 
-UI Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. Esse Projeto foi desenvolvido durante a live ministrada pelo professor Boenick Lacerda. 
+UI Clone do serviço de streaming - Disney+, com o uso da API fornecida pelo The Movie Database.
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/featured_movie.png" />
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/preview_movie.png" />
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/movie_rows.png" />
+<img src="https://github.com/gustavo-nt/disneyplus-clone/blob/main/public/images/github/home.png" />
 
 ### ⚙ Pré-requisitos
 
@@ -81,7 +79,7 @@ Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 
 ### ⚖ Direitos
 
-Todos direitos são reservados a Disney.
+Todos direitos são reservados a Disney e ao The Movie Database..
 
 ### 📝 Licença
 
