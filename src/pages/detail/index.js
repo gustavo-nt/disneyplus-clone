@@ -30,7 +30,7 @@ export default function Detail() {
                     2018 - 7m - Family, Fantasy, Kids, Animation
                 </SubTitle>
                 <Description>
-                    A Chinese mom who's sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. But she finds that nothing stays cute and small forever.
+                    Uma mãe chinesa que fica triste quando seu filho adulto sai de casa tem outra chance de ser mãe quando um de seus bolinhos ganha vida. Mas ela acha que nada fica bonito e pequeno para sempre.
                 </Description>
             </Content>
         </Container>
