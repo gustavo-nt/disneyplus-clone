@@ -30,10 +30,7 @@
 
 - [x] Menus interativos
 - [x] Filmes Originais Disney
-- [x] Seção dispositivos
-- ⛔ Catálogo dos filmes
-- ⛔ Detalhe do filme/série
-- ⛔ Recomendações de filmes/séries
+- [x] Seção dispositivos 
 
 ### 💻 Projeto
 
