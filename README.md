@@ -34,7 +34,7 @@
 
 ### 💻 Projeto
 
-UI Clone do serviço de streaming - Disney+, com o uso da API fornecida pelo The Movie Database.
+UI Clone do serviço de streaming - Disney+, com o uso da API fornecida pelo The Movie Database. Projeto desenvolvido para aprimoramento das técnicas de React.js e Rest API.
 
 ### ✅ Demonstração
 <img src="https://github.com/gustavo-nt/disneyplus-clone/blob/main/public/images/github/home.png" />
