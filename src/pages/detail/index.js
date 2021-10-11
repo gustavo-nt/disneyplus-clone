@@ -1,4 +1,4 @@
-import { Container, Content, Background, ImageTitle, Controls, PlayButton, TrailerButton, AddButton, GroupWacthButton, SubTitle, Description } from './styles';
+import { Container, Content, Background, ImageTitle, Controls, PlayButton, TrailerButton, AddButton, GroupWacthButton, SubTitle, Description } from '../../styles/pages/detail';;
 
 export default function Detail() {
     return (

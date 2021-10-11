@@ -3,10 +3,11 @@ import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
 import Header from '../components/Header';
-import { Container } from './home/styles';
 import Carousel from '../components/Carousel';
 import Viewers from '../components/Viewers';
 import Movies from '../components/Movies';
+
+import { Container } from '../styles/pages/home';
 
 export default function App() {
     const [user, setUser] = useState(false)
@@ -16,7 +17,7 @@ export default function App() {
         if (!user) {
             router.push('/login');
         }
-    }, [])
+    }, []);
 
     return (
         <>

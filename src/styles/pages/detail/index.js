@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { colors } from '../../styles/partials/_variables';
+import { colors } from '../../partials/_variables';
 
 export const Container = styled.div`
     position: relative;

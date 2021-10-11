@@ -10,7 +10,7 @@ import Originals from '../../components/Originals';
 import Download from '../../components/Download';
 import FooterLogin from '../../components/FooterLogin';
 
-import { Container } from './styles';
+import { Container } from '../../styles/pages/login';
 import { Materials } from '../../utils/lists';
 
 export default function Login() {
