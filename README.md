@@ -62,9 +62,9 @@ $ yarn ou npm start
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- ReactJS
 - Next.js
 - Javascript
-- Node.Js
 
 ### 📕 Bibliotecas
 
@@ -76,7 +76,7 @@ Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 
 ### ⚖ Direitos
 
-Todos direitos são reservados a Disney e ao The Movie Database..
+Todos direitos são reservados a Disney e ao The Movie Database.
 
 ### 📝 Licença
 
