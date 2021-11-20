@@ -47,6 +47,8 @@ export default function Login() {
 
             if (document.documentElement.scrollHeight - document.documentElement.clientHeight - scrollFooter < window.scrollY) {
                 setVisibleElements({
+                    opacity: 1,
+                    backHeader: colors.gray.black,
                     positionSubscribe: 'translate3d(0, 100%, 0)'
                 });
             }
